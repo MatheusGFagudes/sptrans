@@ -178,8 +178,8 @@ content: "holding..."
 });
 	   var image = 'parada.png';
 	   
-	  var latitude;
-	  var longitude;
+	  var latitude = -23.5875291;
+	  var longitude = -46.6795128;
 	  var image = "boy.png"
 	 
 	      map = new google.maps.Map(document.getElementById('map'), {
