@@ -3,6 +3,9 @@
   <head>
 <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
         <script type="text/javascript" src="jquery-ui.js"></script>
+		  <script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDTMFxl13bsoNkjwGYIR9AhCOIS86GyFxk&&callback=initMap">
+    </script>
     <style>
 	html{
 		height:100%;
@@ -548,9 +551,7 @@ content: "holding..."
 	  
 	  
     </script>
-    <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDTMFxl13bsoNkjwGYIR9AhCOIS86GyFxk&callback=initMap">
-    </script>
+  
 	
 	
 
