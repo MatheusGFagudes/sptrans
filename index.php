@@ -6,7 +6,7 @@
 		  <script async defer
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDTMFxl13bsoNkjwGYIR9AhCOIS86GyFxk&&callback=initMap">
     </script>
-    <style>
+    <style>dsds
 	html{
 		height:100%;
 	}
