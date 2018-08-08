@@ -12,7 +12,7 @@
     while($resultado = mysqli_fetch_assoc($qryLista)){
         $vetor[] = array_map('utf8_encode', $resultado); 
     }    
-    6yht
+   
     //Passando vetor em forma de json
 		header('Content-type: application/json');
     echo json_encode($vetor);
